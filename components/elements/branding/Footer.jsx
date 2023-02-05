@@ -30,8 +30,8 @@ export default function Footer() {
                             <span className={style["footer-logo-font"]}>
                                 OpenResponse
                                 <span className={style["footer-notes"]} id={style["footer-notes-first"]}>
-                                    was built by Eric Zhang with OpenAI's GPT-3 API and
-                                    NextJS + React. This application does not collect or store any data. You can find the repository <a href="https://github.com/theericzhang/OpenResponse" className={style["footer-link"]} target="blank">here</a>.
+                                    was built using OpenAI
+                                    NextJS + React. This application does not collect or store any data. You can find the repository <a href=" " className={style["footer-link"]} target="blank">here</a>.
                                 </span>
                             </span>
                         </div>
