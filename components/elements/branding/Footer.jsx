@@ -31,7 +31,7 @@ export default function Footer() {
                                 OpenResponse
                                 <span className={style["footer-notes"]} id={style["footer-notes-first"]}>
                                     was built using OpenAI
-                                    NextJS + React. This application does not collect or store any data.</a>.
+                                    NextJS + React. This application does not collect or store any data.
                                 </span>
                             </span>
                         </div>
