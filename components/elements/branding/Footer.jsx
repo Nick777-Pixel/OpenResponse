@@ -36,7 +36,7 @@ export default function Footer() {
                             </span>
                         </div>
                         <div className={style["footer-text-column"]} id={style.side}>
-                            <span className={style["footer-notes"]}>GPT-3 was trained with data up to 2021. It is not intended to be used to query current events, but rather to be used as a Natural Language Processor.</span>
+                            <span className={style["footer-notes"]}>GPT-3 was trained with data up to 2021.</span>
                         </div>
                     </div>
                 </div>
